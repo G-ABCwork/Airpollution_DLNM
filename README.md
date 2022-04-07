@@ -14,7 +14,7 @@
 ## 분석 방법론
 
 -   Distributed lag non linear model
-    -   [스터디 노트](https://github.com/be-favorite/Paper_archive) 참고
+    -   [스터디 노트](https://github.com/be-favorite/Paper_archive)
 
 ## 분석 툴
 
@@ -29,7 +29,7 @@
 -   [에어코리아 대기오염원 DB, 우리나라 휴일 정보 OPEN API 데이터 제공](https://github.com/G-ABCwork/Data_Useful)
 
 ## 분석 결과 예시
-- 데이터, 연구 프라이버시를 고려하여, 질환명은 마스킹하여 제공
+- 데이터 및 연구 프라이버시를 고려하여 질환명은 마스킹하여 제공합니다.
 
 <p align="center">
 <img src = "./Figure for portfolio/merged_figure.png" width = "600"> 
