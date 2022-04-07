@@ -1,6 +1,7 @@
 # [학술연구] 빅데이터를 이용한 미세먼지 건강영향평가
 - 발주기관: 질병관리청
 - 수행기관: 가천대 길병원 가천의생명융합연구원 인공지능빅데이터융합센터
+- 수행역할: 과제 관련 모든 업무 수행 및 총괄
 - Distributed lag non linear model을 이용하여 상대위험도(relative risk, RR)를 기반으로 대기오염원 건강영향평가를 수행합니다.
 - 2016-2020년 대도시별 질환 입원, 발생에 관한 6종의 대기오염원 건강영향평가를 수행합니다.
 - 2016-2019년과 코로나19 이후 시기인 2020년 간의 대기오염원 건강영향평가 비교를 수행합니다.
@@ -16,6 +17,7 @@
 
 -   Distributed lag non linear model
     -   [스터디 노트](https://github.com/be-favorite/Paper_archive)
+    -   [프레젠테이션](https://github.com/be-favorite/Presentation_archive)
 
 ## 분석 툴
 ### SAS
