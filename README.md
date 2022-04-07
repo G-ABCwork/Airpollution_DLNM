@@ -1,8 +1,6 @@
-# 대기오염원 건강영향평가
-
-- 질병관리청 발주
-- [학술연구] 빅데이터를 이용한 미세먼지 건강영향평가
-- 2021.  03 -
+# 질병관리청 발주 [학술연구] 빅데이터를 이용한 미세먼지 건강영향평가
+- 2016-2020년 대도시별 질환 입원, 발생에 관한 6종의 대기오염원 건강영향평가 수행
+- 2016-2019년과 코로나19 이후 시기인 2020년 간의 대기오염원 건강영향평가 비교 수행
 
 ## 평가 질환
 
@@ -31,17 +29,5 @@
 - 데이터, 연구 프라이버시를 고려하여, 질환명은 마스킹하여 제공
 
 <p align="center">
-<img src = "./Figure for portfolio/pm2.5_3D_Seoul.png">
-</p>
-
-<p align="center">
-<img src = "./Figure for portfolio/pm2.5_Contour_Seoul.png"">
-</p>
-
-<p align="center">
-<img src = "./Figure for portfolio/pm2.5_Overall_Seoul.png"">
-</p>
-
-<p align="center">
-<img src = "./Figure for portfolio/o3_compare_Seoul.png"">
+<img src = "./Figure for portfolio/merged_figure.png" width = "600"> 
 </p>
