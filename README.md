@@ -18,9 +18,10 @@
     -   [스터디 노트](https://github.com/be-favorite/Paper_archive)
 
 ## 분석 툴
-
--   SAS SQL
--   R
+### SAS SQL
+- 주요 프로시저: SQL
+### R
+- 주요 라이브러리: tidyverse, fpp3, dlnm, foreach, parallel, furrr, tidytext
 
 ## 데이터
 
